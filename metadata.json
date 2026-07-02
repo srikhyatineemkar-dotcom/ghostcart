@@ -1,0 +1,6 @@
+{
+  "name": "GhostCart",
+  "description": "GhostCart is a high-fidelity impulse-buy simulator designed to look like a premium e-commerce platform where you add items, proceed through checkout, and track delivery, only to celebrate how much money you successfully saved.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
